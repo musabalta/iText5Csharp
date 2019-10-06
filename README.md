@@ -1,4 +1,4 @@
-# How to using iTextSharp with C#
+# How to use iTextSharp with C#
 
 Get Pdf Field Names
 
